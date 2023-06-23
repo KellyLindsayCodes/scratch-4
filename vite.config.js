@@ -6,7 +6,6 @@ const __dirname = dirname(__filename);
 
 export default {
   // ...other configuration options
-  base: '/scratch-4/',
   build: {
     rollupOptions: {
       input: {
